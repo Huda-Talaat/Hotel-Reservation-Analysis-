@@ -85,12 +85,6 @@ Built a Star Schema in Power Pivot:
 7. **Seasonal strategy for Q3** — dynamic pricing and stricter policies during peak season
 
 
-## 📂 Files
-| File | Description |
-|---|---|
-| `Hotel_Reservations_Dashboard.xlsx` | Main Excel file with full dashboard |
-| `Hotel_Reservations_Dataset.csv` | Original raw dataset |
-
 
 
 3. DAX Measures
