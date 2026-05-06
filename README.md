@@ -28,6 +28,7 @@ An end-to-end Excel data analysis project analyzing 36,238 hotel bookings from J
   - `Day_Type` — Weekday vs Weekend
 
 ### 2. Data Modeling — Star Schema
+![Overview](Star Schema Modeling.png.jpeg)
 Built a Star Schema in Power Pivot:
 
 | Table | Type |
